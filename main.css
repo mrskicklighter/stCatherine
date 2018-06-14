@@ -1,0 +1,21 @@
+body {
+    background-color: darkgray;
+
+}
+.wrapper {
+    display: block;
+  
+}
+span {
+text-align: center;
+font-size: 2em;
+
+}
+
+img {
+max-width: 50%;
+max-height: 25em;
+padding: 3em;
+image-orientation: from-image;
+
+}
